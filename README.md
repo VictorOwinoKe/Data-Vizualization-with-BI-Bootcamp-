@@ -1,6 +1,5 @@
 # Data Visualization with Power BI Bootcamp
-
-![Power BI Logo](https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png)
+<img width="583" alt="image" src="https://github.com/VictorOwinoKe/Data-Vizualization-with-BI-Bootcamp-/assets/56676033/c04b84dc-b782-431a-bb17-9b7b797c8bb4">
 
 Welcome to the Data Visualization with Power BI Bootcamp! In this bootcamp, you will learn how to create stunning visualizations and interactive dashboards using Power BI. Whether you're a data analyst, business intelligence professional, or anyone interested in exploring and presenting data in a visually appealing and meaningful way, this bootcamp is for you.
 
@@ -61,24 +60,4 @@ By the end of this bootcamp, you will:
 - Applying design principles and best practices
 - Tips and tricks for efficient Power BI usage
 
-## Who Should Attend?
 
-This bootcamp is suitable for:
-
-- Data analysts and business intelligence professionals
-- Data scientists and researchers
-- Business professionals and managers
-- Anyone interested in learning data visualization with Power BI
-
-## Requirements
-
-To participate in this bootcamp, you will need:
-
-1. A laptop or computer with Power BI Desktop installed. You can download it from the official [Power BI website](https://powerbi.microsoft.com/).
-2. Basic knowledge of data analysis concepts and Microsoft Excel.
-
-## Registration
-
-To register for the Data Visualization with Power BI Bootcamp, please visit our [event registration page](link-to-registration-page). Spaces are limited, so make sure to secure your spot early.
-
-We look forward to seeing you at the bootcamp and helping you unlock the full potential of Power BI for data visualization. Get ready to transform your data into compelling stories and insightful visualizations!
