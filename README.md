@@ -7,7 +7,7 @@ Welcome to the Data Visualization with Power BI Bootcamp! In this bootcamp, you 
 
 - **Duration:** 1 hr (Tuesday 8-9PM EAT)
 - **Time:** 8-9PM EAT
-- **Location:** [Specify the location or mention if it's an online bootcamp]
+- **Location:** [online bootcamp]
 - **Prerequisites:** Basic knowledge of data analysis and Microsoft Excel
 
 ## Bootcamp Objectives
